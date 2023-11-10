@@ -6,6 +6,7 @@ const Nav = () => {
     <>
       <nav className="Nav">
         <div className="NavButtons">
+          <a className="NavTitle" href="https://globemc.org"><b>GlobeMC</b></a>
           <a className="NavA" href="/">About</a>
           <a className="NavA" href="/rules">Rules</a>
           <a className="NavA" href="/guide">Guide</a>

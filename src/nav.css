@@ -19,6 +19,13 @@
   color: #e7e7e7;
 }
 
+.NavTitle {
+  margin: 5px 5px;
+  font-size: 1.65rem;
+  color: #e7e7e7;
+  text-decoration: none;
+}
+
 main {
   margin: 5px;
 }

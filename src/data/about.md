@@ -7,4 +7,4 @@ Discover the geopolitical sandbox you've been searching for!
 * Unlike other Towny servers, we prioritize realism by omitting teleports. Navigate the world, whether by boat, ship, or rail, as distances matter in trade and politics.
 * Explore our plugins further on the "Plugins" page.
 
-PS. Server is osting in Europe, people from other 
+PS. Server is hosting in Europe, people from other continents might have high latency.
